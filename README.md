@@ -1,2 +1,2 @@
 # E-mail-Automation-System
-The main goal of this project
+An email automation system designed to streamline sending, managing, and scheduling emails efficiently using programmed workflows.
