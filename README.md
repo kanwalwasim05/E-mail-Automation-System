@@ -3,7 +3,7 @@ An email automation system designed to streamline sending, managing, and schedul
 ## How to Run
 
 1. Clone this repository:
-   git clone https://github.com/YourUsername/Email-Automation-System.git
+   git clone https://github.com/kanwalwasim05/E-mail-Automation-System.git
 2. Navigate to the project folder:
    cd Email-Automation-System
 3. Install the required libraries:
