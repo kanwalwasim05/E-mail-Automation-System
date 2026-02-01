@@ -1,12 +1,13 @@
 {
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587,
-    "sender_email": "codesofadan@gmail.com",
-    "sender_password": "zdhkyfzvajtginsf",
-    "sender_name": "Adan",
+    "sender_email": "",
+    "sender_password": "",
+    "sender_name": "Kanwal",
     "use_tls": true,
     "log_file": "logs/email_log.txt",
     "delay_between_emails": 0,
     "max_retries": 3,
     "retry_delay": 1
+
 }
